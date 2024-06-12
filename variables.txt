@@ -1,0 +1,122 @@
+first_name=["John", "Michael", "David", "James", "Robert", "William", "Joseph", "Daniel", "Christopher", "Matthew","Mary", "Jennife", "Linda", "Susan", "Karen","Patricia", "Jessica", "Sarah", "Emily", "Ashley"]
+last_name=["Smith", "Johnson", "Williams", "Brown", "Jones", "Garcia", "Miller", "Davis", "Rodriguez", "Martinez"]
+religions = ["Christianity", "Islam", "Hinduism", "Buddhism", "Judaism", "Sikhism", "Juche","Spiritism","Judaism","Bahai","Jainism","Shinto","Cao Dai","Zoroastrianism","Tenrikyo","Neo-Paganism","Unitarian-Universalism"]
+educations=["Middle School", "High School", "Some college", "Associate's degree", "Bachelor's degree","Master's degree","Doctoral degree", "Autodidactic in specialized Area"]
+net_worth=(1000,1000000)
+annual_income=[10000,1000000]
+credit_scores = [300,850]
+transportation_options = ['Have No Major Transportation', 'Have Car(s)', 'Have Truck(s)', 'Have Boat(s)', 'Have Aircraft(s)']
+passport_options = ['No passport', 'Applied for Passport', 'Have Passport', 'Intend to get Passport']
+languages =["Mandarin Chinese","Spanish","English","Hindi","Bengali","Portuguese","Russian","Japanese","Western Punjabi","Lahnda (Eastern Punjabi)","Marathi","Telugu","Wu Chinese",
+"Turkish",
+"Korean",
+"French",
+"Vietnamese",
+"Tamil",
+"Urdu",
+"Yue Chinese (Cantonese)",
+"Italian",
+"Egyptian Arabic",
+"Gujarati",
+"Javanese",
+"Persian",
+"Hausa",
+'Kannada',
+"Polish"
+'Bhojpuri',
+'Pashto',
+'Xiang Chinese',
+'Malayalam',
+'Sundanese',
+'Odia (Oriya)',
+'Burmese',
+'Hakka Chinese',
+'Ukrainian',
+'Uzbek',
+'Sindhi',
+'Oriya',
+'Thai',
+'Romanian',
+'Malay',
+'Kurdish',
+'Amharic',
+'Filipino (Tagalog)',
+'Saraiki',
+'Dutch',
+'Khmer',
+'Yoruba',
+'Igbo',
+'Serbo-Croatian',
+'Hungarian',
+'Somali',
+'Zulu',
+'Chhattisgarhi',
+'Malagasy',
+'Sinhala',
+'Greek',
+'Chittagonian',
+'Czech',
+'Swedish',
+'Hmong',
+'Shona',
+'Uyghur',
+'Hiligaynon/Ilonggo (Visayan)',
+'Quechua',
+'Akan',
+'Kirundi',
+'Hungarian',
+'Finnish',
+'Haitian Creole',
+'Ilocano',
+'Hebrew',
+'Rwanda',
+'Zhuang',
+'Afrikaans',
+'Kazakh',
+'Chichewa (Nyanja)',
+'Kurdish',
+'Swedish',
+'Kinyarwanda',
+'Balochi',
+'Belarusian',
+'Konkani',
+'Nepali',
+'Tigrinya',
+'Xhosa',
+'Ganda',
+'Tibetan',
+'Burushaski',
+'Kurdish',
+'Luxembourgish',
+'Macedonian',
+'Slovene',
+'Estonian',
+'Armenian',
+'Bangla',
+'Tswana',
+'Corsican',
+'Jamaican/Patois/Patwa',
+]
+keywords=['c','d','e','f','u']
+music_genres=['Pop',"Rock",	"Hip-hop/Rap","Jazz","Blues","Classical","Country","Electronic/Dance","R&B (Rhythm and Blues)","Reggae","Metal","Folk","Punk","Indie","Alternative","Soul","Funk","Gospel","Techno","House","EDM (Electronic Dance Music)","Latin","K-pop","J-pop","Bollywood"]
+movie_genres=['Action','Comedy','Drama']
+genders=['Natural Male','Natural Female','Trans Female','Trans Male']
+races=['Caucasian/White','African/Black','Asian','Hispanic/Latino','Native American/Indigenous','Pacific Islander','Mixed/Multiracial','Other']
+skin_tones=['white','black']
+age=[18,120]
+height=[4.5,7.0]
+weight=[80,300]
+body_types=['slim','fit']
+sex_orientations=['STRAIGHT', 'GAY', 'LESBIAN', 'BISEXUAL', 'PANSEXUAL', 'ASEXUAL', 'SAPIOSEXUAL']
+residing_statuses=['Buying', 'Renting', 'Owned', 'Contributing', 'Temp stay']
+adults_in_house_options=['Live alone', 'Live with adult(s)', 'Roomate', 'Taking care of Parent(s)']
+children_options=['No children', 'Have infant(s)', 'Have pre-teen(s)', 'Have teenager(s)', 'Have grown children']
+indoor_pets_options=['Pet dog(s)', 'Pet cat(s)', 'Pet bird(s)', 'Pet reptile(s)', 'Pet rodent(s)']
+outdoor_pets_options=['Pet dog(s)', 'Pet cat(s)', 'Pet bird(s)', 'Pet reptile(s)', 'Pet rodent(s)'] 
+zip_codes=[10001, 10002, 10003, 10004, 10005, 10006, 10007, 10008, 10009, 10010]
+miles_away=[5,10,20,30,35,40,50,65,70,90,100]
+relationship_status=['Single', 'Poly', 'Cheating', 'Married', 'Divorced', 'Widowed', 'Separated']
+relationship_goals=['CASUAL DATING', 'POLYAMORY (POLY LIFE)', 'MARRIAGE', 'FRIENDSHIP', 'MONOGAMOUS RELATIONSHIP', 'FRIENDS WITH BENEFITS (FWB)', 'LONG-TERM RELATIONSHIP', 'EXPERIMENTAL RELATIONSHIP', 'HOOK-UPS', 'NETWORKING OPPORTUNITIES', 'OPEN RELATIONSHIP']
+alcohol_use_options=['No Alcohol use', 'Alcohol occasionally', 'Alcohol rarely', 'Alcohol at least 3 times weekly']
+cannabis_use_options=['No CBD use', 'CBD products occasionally', 'CBD rarely, CBD at least 3 times weekly', 'CBD medically']
+other_rec_drug_use_options=['Other Drug use occasionally', 'Other Drug use rarely', 'Other Drug use at least 3 times weekly']
